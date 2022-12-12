@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130301043493",
+    "project_id": "dexterhelp-7a572",
+    "storage_bucket": "dexterhelp-7a572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130301043493:android:916083c6483db96e2430cc",
+        "android_client_info": {
+          "package_name": "com.dexter.health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130301043493-9pmcsv1jq5bvok4e3obri0rp7og9i4nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqWQjISiUAfwLrhC-Vt8zB7cAHnqOorxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130301043493-9pmcsv1jq5bvok4e3obri0rp7og9i4nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
